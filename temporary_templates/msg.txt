@@ -1,0 +1,8 @@
+Hello World!
+
+This is a mail send with Python!
+
+Check out my website https://blood-connect-major.herokuapp.com
+
+Thanks And Regards
+Ritesh Ramchandani
